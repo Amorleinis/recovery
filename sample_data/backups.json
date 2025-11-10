@@ -1,0 +1,18 @@
+[
+  {
+    "recovery_id": "REC-2024-001",
+    "system": "file-server-01",
+    "backup_date": "2024-01-14T23:00:00Z",
+    "status": "ready",
+    "size_gb": 250,
+    "type": "full_backup"
+  },
+  {
+    "recovery_id": "REC-2024-002",
+    "system": "web-app-01",
+    "backup_date": "2024-01-15T01:00:00Z",
+    "status": "ready",
+    "size_gb": 50,
+    "type": "incremental_backup"
+  }
+]

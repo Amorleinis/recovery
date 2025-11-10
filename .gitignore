@@ -31,3 +31,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Include sample data
+!sample_data/
+!sample_data/*
